@@ -1,7 +1,7 @@
 # Hi there🫶!
 
-I'm Sarina   
-Nice to meet you!
+**I'm Sarina**  
+**Nice to meet you!**
 
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarara33&show_icons=true&theme=radical)
-
+  
 <p align="left">
   <a href="http://twitter.com/sary_run44">
     <img height="20" src="https://img.shields.io/twitter/follow/sary_run44?label=Twitter&logo=twitter&style=flat" />
