@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarara33&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarara33&show_icons=true&count_private=true&theme=radical)
   
 <p align="left">
   <a href="http://twitter.com/sary_run44">
