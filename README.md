@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarara33&show_icons=true&count_private=true&theme=radical)
   
-<p align="left">
-  <a href="https://github.com/Kazuki0320/Kazuki0320">
-    <img src="https://komarev.com/ghpvc/?username=Trara33" alt="Trara33" />
-  </a>
-  <a href="https://github.com/Tarara33">
-    <img height="20" src="https://img.shields.io/github/followers/Tarara33?label=follow&logo=github&style=flat" />
-  </a>
-  [![Twitter: sary_run44](https://img.shields.io/twitter/follow/sary_run44?style=social)](https://twitter.com/sary_run44)
-</p>
+<a href="https://github.com/Tarara33/Tarara33">
+  <img src="https://komarev.com/ghpvc/?username=Trara33" alt="Trara33"/>
+</a>
+
+<a href="https://github.com/Tarara33">
+  <img height="20" src="https://img.shields.io/github/followers/Tarara33?label=follow&logo=github&style=flat" />
+</a>
+
+[![Twitter: sary_run44](https://img.shields.io/twitter/follow/sary_run44?style=social)](https://twitter.com/sary_run44)
+
 
